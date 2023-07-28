@@ -1,0 +1,11 @@
+.homo{
+    margin-top: 4% ;
+    padding: 5% 0;
+    background-color: rgba(140, 143, 240, 0.667);
+}
+
+@media only screen and (max-width:768px) {
+  .homo h2{
+    margin-top: 50px;
+  }  
+}

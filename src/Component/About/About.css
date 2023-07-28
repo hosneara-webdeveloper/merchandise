@@ -1,0 +1,36 @@
+.aboutU img{
+   margin-left: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+.abBg{
+    background-color: rgba(92, 128, 0, 0.174);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.abP{
+    padding: 10px 10px 0;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.861);
+    font-size: 18px;
+   
+}
+
+.abText{
+    width: 80%;
+}
+
+@media (max-width:768px) {
+    .abFlex{
+        flex-direction: column;
+    }
+
+    .abText h3{
+        margin-top: 50px;
+
+      
+
+    }
+    
+}

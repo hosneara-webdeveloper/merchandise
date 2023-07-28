@@ -1,0 +1,13 @@
+.userpg1{
+    margin-top: 5%;
+    padding-bottom: 5%;
+    background-color: rgba(77, 134, 163, 0.128);
+}
+
+
+@media only screen and (max-width:768px) {
+    .userPg1 h2{
+      margin-top: 55px !important;
+     
+    }  
+  }
